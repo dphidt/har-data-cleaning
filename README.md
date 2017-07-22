@@ -40,7 +40,7 @@ To produce the tidy dataset and store it as `d`, run:
 
 ```R
 source('run_analysis.R')
-d <- run_analysis()
+run_analysis()
 ```
 
 This creates two output files:
